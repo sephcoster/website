@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xslt/rss.xslt" ?>
+<?xml-stylesheet type="text/css" href="/assets/css/rss.css" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>sephcoster.com</title>
+		<description>All content is my own poor personal opinion. No substitutions, extensions, or refunds.</description>
+		<link>http://localhost:4000/</link>
+		<atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
+		
+			<item>
+				<title>Hello world.</title>
+				<link>http://localhost:4000/post/hello-world/</link>
+				<pubDate>Wed, 05 Sep 2018 00:00:00 -0400</pubDate>
+				<description>
+</description>
+				<guid isPermaLink="true">http://localhost:4000/post/hello-world/</guid>
+			</item>
+		
+			<item>
+				<title>You can delete this file</title>
+				<link>http://localhost:4000/dummy/dummy-delete-me/</link>
+				<pubDate>Thu, 15 Oct 2015 00:00:00 -0400</pubDate>
+				<description></description>
+				<guid isPermaLink="true">http://localhost:4000/dummy/dummy-delete-me/</guid>
+			</item>
+		
+	</channel>
+</rss>

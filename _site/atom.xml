@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xslt/atom.xslt" ?>
+<?xml-stylesheet type="text/css" href="/assets/css/atom.css" ?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+	<id>http://localhost:4000/</id>
+	<title>sephcoster.com</title>
+	<updated>2018-09-06T00:21:09-04:00</updated>
+
+	<subtitle>All content is my own poor personal opinion. No substitutions, extensions, or refunds.</subtitle>
+
+	
+		
+		<author>
+			
+				<name>Seph</name>
+			
+			
+			
+		</author>
+	
+
+	<link href="http://localhost:4000/atom.xml" rel="self" type="application/rss+xml" />
+	<link href="http://localhost:4000/" rel="alternate" type="text/html" />
+
+	<generator uri="http://jekyllrb.com" version="3.6.0">Jekyll</generator>
+
+	
+		<entry>
+			<id>http://localhost:4000/post/hello-world/</id>
+			<title>Hello world.</title>
+			<link href="http://localhost:4000/post/hello-world/" rel="alternate" type="text/html" title="Hello world." />
+			<updated>2018-09-05T00:00:00-04:00</updated>
+
+			
+				
+				<author>
+					
+						<name>Seph</name>
+					
+					
+					
+				</author>
+			
+			<summary>Starting fresh.</summary>
+			<content type="html" xml:base="http://localhost:4000/post/hello-world/">
+</content>
+
+			
+				<category term="post" />
+			
+			
+				<category term="administrative" />
+			
+
+			<published>2018-09-05T00:00:00-04:00</published>
+		</entry>
+	
+		<entry>
+			<id>http://localhost:4000/dummy/dummy-delete-me/</id>
+			<title>You can delete this file</title>
+			<link href="http://localhost:4000/dummy/dummy-delete-me/" rel="alternate" type="text/html" title="You can delete this file" />
+			<updated>2015-10-15T00:00:00-04:00</updated>
+
+			
+				
+				<author>
+					
+						<name>Seph</name>
+					
+					
+					
+				</author>
+			
+			<summary>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</summary>
+			<content type="html" xml:base="http://localhost:4000/dummy/dummy-delete-me/"></content>
+
+			
+				<category term="dummy" />
+			
+			
+				<category term="dummy" />
+			
+
+			<published>2015-10-15T00:00:00-04:00</published>
+		</entry>
+	
+</feed>
